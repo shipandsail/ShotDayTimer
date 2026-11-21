@@ -1,0 +1,32 @@
+{
+  "name": "ShotDayTimer",
+  "version": "1.0.1",
+  "description": "Weekly shot-day countdown and injection-site rotation for DIY medication reminder devices. Logging only.",
+  "keywords": [
+    "reminder",
+    "medication",
+    "injection",
+    "countdown",
+    "health"
+  ],
+  "homepage": "https://bluedoseapp.com/features/glp-1-shot-reminder/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shipandsail/ShotDayTimer.git"
+  },
+  "authors": [
+    {
+      "name": "Alex Bell",
+      "email": "strawbelly.app@gmail.com",
+      "url": "https://bluedoseapp.com/",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "ShotDayTimer.h",
+  "examples": [
+    "examples/*/*.ino"
+  ]
+}
